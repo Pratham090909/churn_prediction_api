@@ -1,16 +1,9 @@
-# Base System & Fixes
-setuptools  # Fixes the missing 'pkg_resources' in newer Python versions 
-
-# Web & API Frameworks
-streamlit>=1.30.0  # Resolves the Altair v4 vs v6 conflict 
-fastapi
-uvicorn
-
-# Data Science & Machine Learning
-pandas>=2.0.0      # Newer version to support Python 3.14 environments 
+setuptools
+streamlit>=1.30.0
+pandas
 scikit-learn
 xgboost
 imbalanced-learn
-
-# Explainability
 shap
+fastapi
+uvicorn
