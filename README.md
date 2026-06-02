@@ -1,3 +1,4 @@
+
 # 📉 Customer Churn Prediction System
 
 An end-to-end Machine Learning application that predicts whether a customer is likely to churn using customer demographics, account information, and service usage data.
@@ -155,15 +156,17 @@ Evaluation Metrics:
 
 Example Metrics:
 
-```text
-ROC-AUC Score: XX.XX
-Accuracy: XX.XX
-Precision: XX.XX
-Recall: XX.XX
-F1 Score: XX.XX
-```
+```markdown
+## 📈 Model Performance
 
-*(Replace with your actual values)*
+| Metric | Score |
+|----------|---------|
+| ROC-AUC Score | 0.88 |
+| Accuracy | 0.84 |
+| Precision | 0.79 |
+| Recall | 0.71 |
+| F1 Score | 0.75 |
+```
 
 ---
 
@@ -262,15 +265,18 @@ http://localhost:8501
 
 ### Streamlit Dashboard
 
-(Add screenshot here)
+<img width="1837" height="855" alt="Screenshot 2026-06-03 014602" src="https://github.com/user-attachments/assets/83f2cac5-0c96-48d3-b76f-3929537d4736" />
+
 
 ### Prediction Output
 
-(Add screenshot here)
+<img width="1835" height="406" alt="Screenshot 2026-06-03 014913" src="https://github.com/user-attachments/assets/fedfb9f4-d6c6-43f5-b423-2756ef1ca530" />
+
 
 ### FastAPI Swagger UI
 
-(Add screenshot here)
+<img width="1498" height="556" alt="Screenshot 2026-06-03 014647" src="https://github.com/user-attachments/assets/aff7cdb0-6985-4b05-a414-740e65b38a5e" />
+
 
 ---
 
