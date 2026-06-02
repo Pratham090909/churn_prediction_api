@@ -157,8 +157,6 @@ Evaluation Metrics:
 Example Metrics:
 
 ```markdown
-## 📈 Model Performance
-
 | Metric | Score |
 |----------|---------|
 | ROC-AUC Score | 0.88 |
